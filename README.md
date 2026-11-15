@@ -11,12 +11,7 @@
 
 **AI-Powered Early Detection of Pancreatic Cancer & Neurodegenerative Disorders**
 
-*Final Year Project — Government College University Faisalabad (GCUF)*  
-*Department of Information Technology · 2024–2025*
-
 ---
-
-**Team Members:** Aleem Amjad &nbsp;·&nbsp; Maham Faryad &nbsp;·&nbsp; Shafia Arooj
 
 </div>
 
@@ -657,10 +652,5 @@ echo "rag/pcn_meta.pkl" >> .gitignore
 
 <div align="center">
 
-**PCN Early Detection System** · Final Year Project · GCUF · 2025
-
-*Department of Information Technology · Government College University Faisalabad*
-
-Made with ❤️ by **Aleem Amjad**, **Maham Faryad**, **Shafia Arooj**
 
 </div>
